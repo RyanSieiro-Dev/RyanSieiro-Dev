@@ -25,15 +25,9 @@ Português (Fluente)
 
 ## Linguagens / ferramentas com conhecimento nível avançado:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+-x-
 
 
 
@@ -44,11 +38,19 @@ Português (Fluente)
 
 ## Linguagens / ferramentas com conhecimento nível Intermediário:
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -56,13 +58,9 @@ Português (Fluente)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![API](https://img.shields.io/badge/API-4FC3B3?style=for-the-badge&logo=api&logoColor=white)
-
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 ![Software Engineering](https://img.shields.io/badge/Software_Engineering-4B8BBE?style=for-the-badge&logo=software-engineering&logoColor=white)
 
@@ -81,6 +79,12 @@ Português (Fluente)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![API](https://img.shields.io/badge/API-4FC3B3?style=for-the-badge&logo=api&logoColor=white)
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 
 
@@ -96,16 +100,7 @@ Empatia / Respeito / Bom ouvinte / Disciplina / Foco / Determinação / Pontuali
 
 ## Experiência Profissional 👔:
 
-Atualmente sem experiência no mercado de trabalho.
-
-
-
-
-
-## Contribuições 🖥️
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RyanSieiro-Dev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RyanSieiro-Dev/DIO-LAB-OPEN-SOURCE)
-
+Atualmente sem experiência no mercado de trabalho da TI.
 
 
 
