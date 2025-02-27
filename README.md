@@ -20,6 +20,10 @@ Português (Fluente)
    Conteúdo: C#, .NET, MySql, Sql Server, React, GIT, Entity Framework / Minimal-API, HTML, CSS, JavaScript,
    Next.js, TypeScript, Cloud com Azure.
 
+3. ALURA: Aprenda a programar em Java com Orientação a Objetos - duração: 40 horas.
+   Conteúdo: Java, 4 Pilares POO, Listas e coleções de dados, Consumo de API, Pacote java.net.http, Postman, Biblioteca GSON, Records em Java,
+   Erros e exceções, Gravação em arquivo, Laços de repetição, Arrays.
+
 
 
 
