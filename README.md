@@ -1,6 +1,6 @@
 # RyanSieiro-Dev 
 ## Sobre mim 👋
-### Olá, meu nome é Ryan Sieiro, tenho 21 anos, atualmente estou cursando Tecnologia em analise e desenvolvimento de sistemas e procuro cada dia conhecer mais sobre programação full stack.
+### Olá, meu nome é Ryan Sieiro, tenho 22 anos, Sou formado em Tecnologia em analise e desenvolvimento de sistemas e procuro cada dia conhecer mais sobre programação full stack.
 
 
 ## Sei falar em 🗣️:
@@ -45,17 +45,11 @@ Português (Fluente)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
