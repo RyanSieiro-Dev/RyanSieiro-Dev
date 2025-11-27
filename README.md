@@ -13,7 +13,7 @@ Português (Fluente)
 
 ## Cursos / Bootcamps:
 
-1. Cursando TADS (Tecnologia em Analise e Desenvolvimento de Sistemas) em UniProjeção.
+1. Formado em TADS (Tecnologia em Analise e Desenvolvimento de Sistemas) pela UniProjeção.
 
 2. Bootcamp XP Inc. - Full Stack Developer Aplicado pela DIO (Digital Innovation One), duração: 127 horas.
    
