@@ -101,7 +101,13 @@ Empatia / Respeito / Bom ouvinte / Disciplina / Foco / Determinação / Pontuali
 
 ## Experiência Profissional 👔:
 
-Atualmente sem experiência no mercado de trabalho da TI.
+Serviço Militar — Soldado do Efetivo Variável (19 anos) 
+
+Trabalho em equipe 
+
+Disciplina, organização e comprometimento 
+
+Responsabilidade em situações de pressão 
 
 
 
