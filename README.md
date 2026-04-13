@@ -25,6 +25,8 @@ Português (Fluente)
    Conteúdo: Java, 4 Pilares POO, Listas e coleções de dados, Consumo de API, Pacote java.net.http, Postman, Biblioteca GSON, Records em Java,
    Erros e exceções, Gravação em arquivo, Laços de repetição, Arrays.
 
+4. ALURA: Outros cursos: Entre 50 a 100 horas.
+
 
 
 
