@@ -1,6 +1,6 @@
 # RyanSieiro-Dev 
 ## Sobre mim 👋
-### Olá, meu nome é Ryan Sieiro, tenho 22 anos, Sou formado em Tecnologia em analise e desenvolvimento de sistemas e procuro cada dia conhecer mais sobre programação full stack.
+### Olá, meu nome é Ryan Sieiro, tenho 22 anos, Sou formado em Tecnologia em análise e desenvolvimento de sistemas e procuro cada dia conhecer mais sobre programação full stack.
 
 
 ## Sei falar em 🗣️:
